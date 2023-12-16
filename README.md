@@ -24,7 +24,12 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
  ![EXP2](https://github.com/Confusion7/Single-server-infinite-capacity---Markov-Model/assets/141727149/864789bc-7cdf-45d6-abc8-fb55bea6103a)
 
-## Program
+## Program :
+
+DEVELOPED BY: MOHAMMED SAAJID S
+
+REGISTER NO:  212223240093
+
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
 
 ## Output :
